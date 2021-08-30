@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 from datetime import datetime
-import mysql.connector
 import tweepy
 import time
 import json
